@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomRecurrenceFormDescendantSample/Form1.cs) (VB: [Form1.vb](./VB/CustomRecurrenceFormDescendantSample/Form1.vb))
+* [MyAppointmentEditForm.cs](./CS/CustomRecurrenceFormDescendantSample/MyAppointmentEditForm.cs) (VB: [MyAppointmentEditForm.vb](./VB/CustomRecurrenceFormDescendantSample/MyAppointmentEditForm.vb))
+* [MyAppointmentRecurrenceForm.cs](./CS/CustomRecurrenceFormDescendantSample/MyAppointmentRecurrenceForm.cs) (VB: [MyAppointmentRecurrenceForm.vb](./VB/CustomRecurrenceFormDescendantSample/MyAppointmentRecurrenceForm.vb))
+<!-- default file list end -->
 # How to create a custom recurrence form using the AppointmentRecurrenceForm descendant
 
 
