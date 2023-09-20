@@ -1,12 +1,9 @@
-﻿Imports DevExpress.XtraScheduler
+Imports DevExpress.XtraScheduler
 Imports DevExpress.XtraScheduler.UI
-Imports System
-Imports System.Collections.Generic
-Imports System.Linq
-Imports System.Text
 Imports System.Windows.Forms
 
 Namespace CustomRecurrenceFormDescendantSample
+
     Public Class MyAppointmentEditForm
         Inherits AppointmentForm
 
@@ -18,8 +15,7 @@ Namespace CustomRecurrenceFormDescendantSample
         End Sub
 
         Protected Overrides Function CreateAppointmentRecurrenceForm(ByVal patternCopy As Appointment, ByVal firstDayOfWeek As FirstDayOfWeek) As Form
-            Return New MyAppointmentRecurrenceForm(patternCopy, firstDayOfWeek, Me.Controller, Me.recurringType)
+            Return New MyAppointmentRecurrenceForm(patternCopy, firstDayOfWeek, Controller, recurringType)
         End Function
     End Class
-
 End Namespace
