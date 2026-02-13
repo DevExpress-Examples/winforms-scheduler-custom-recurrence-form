@@ -30,7 +30,7 @@ This example replaces the standard appointment recurrence editing form with a cu
 
 * [How to: Customize an Appointment Recurrence Form](https://docs.devexpress.com/WindowsForms/2880/controls-and-libraries/scheduler/examples/forms/how-to-create-a-custom-appointment-recurrence-form-method-1)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-custom-recurrence-form&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-custom-recurrence-form&~~~was_helpful=no)
 
