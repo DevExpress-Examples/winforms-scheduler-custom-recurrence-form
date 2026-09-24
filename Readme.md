@@ -9,7 +9,7 @@
 
 This example replaces the standard appointment recurrence editing form with a custom form. The custom form inherits base functionality from [AppointmentRecurrenceForm](https://docs.devexpress.com/WindowsForms/DevExpress.XtraScheduler.UI.AppointmentRecurrenceForm).
 
-![WinForms Scheduler - Create a custom recurrence form](https://raw.githubusercontent.com/DevExpress-Examples/how-to-create-a-custom-recurrence-form-using-the-appointmentrecurrenceform-descendant-t220994/14.2.3+/media/e6730faa-d303-11e4-80bf-00155d62480c.png)
+![WinForms Scheduler - Create a custom recurrence form](media/e6730faa-d303-11e4-80bf-00155d62480c.png)
 
 
 ## Files to Review
